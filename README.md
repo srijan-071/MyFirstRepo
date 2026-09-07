@@ -1,2 +1,2 @@
 # MyFirstRepo
- This is my first GitHubrepo for Learning Purpose.
+This is my first GitHub repository for learning and experimentation.
