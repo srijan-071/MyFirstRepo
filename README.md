@@ -16,4 +16,11 @@ experiment → commit → review → improve
 
 Keep changes focused, run the affected example when practical, and use a short commit message that explains what changed.
 
+## Before committing
+
+- Check that the example still runs after the change.
+- Review the diff for accidental files or debug output.
+- Keep credentials and machine-specific paths out of the repository.
+- Prefer one focused change per commit so the history remains useful.
+
 This repository is intentionally simple. It is a place to try ideas, learn from mistakes, and keep a visible history of progress.
