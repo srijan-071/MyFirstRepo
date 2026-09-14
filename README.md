@@ -23,4 +23,8 @@ Keep changes focused, run the affected example when practical, and use a short c
 - Keep credentials and machine-specific paths out of the repository.
 - Prefer one focused change per commit so the history remains useful.
 
+## Review checklist
+
+Before considering an experiment finished, verify the expected behavior, remove temporary debugging output, and confirm the diff contains only the intended files.
+
 This repository is intentionally simple. It is a place to try ideas, learn from mistakes, and keep a visible history of progress.
