@@ -27,4 +27,8 @@ Keep changes focused, run the affected example when practical, and use a short c
 
 Before considering an experiment finished, verify the expected behavior, remove temporary debugging output, and confirm the diff contains only the intended files.
 
+## Learning log
+
+For experiments that introduce a new concept, briefly record what was tested, what result was expected, and what was actually observed. Keeping this note close to the code makes later review easier and turns the repository history into a useful learning record.
+
 This repository is intentionally simple. It is a place to try ideas, learn from mistakes, and keep a visible history of progress.
